@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+pip-wheel-metadata/
+.coverage
+.env
+.tox/
+*.env
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+*.nbconvert.ipynb
+*.nbformat.ipynb
+*.nbextension.html
+*.nbextension.js
+*.html
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.pickle
+*.pkl
+*.npy
+*.npz
+
+# Compiled binaries
+*.so
+*.dll
+*.exe
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+node_modules/
+.idea/
+.vscode/
+
+# TensorFlow
+*/__pycache__/
+*.pyc
+model_checkpoints/
+logs/
+
+# PyTorch
+*/.ipynb_checkpoints/
+*.pth
+*.pt
+*.ckpt
+
